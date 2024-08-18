@@ -10,7 +10,7 @@ Flappy Bird is a mobile game written by Flutter and Flame!
 ```bash
   git clone https://github.com/XuanHuyVu/Flappy_Bird
 ```
-This folder will be downloaded to your PC, after that you use IDE such as VScode or Android studio to run on virtual machine.
+This folder will be downloaded to your PC, after that you use IDE such as VScode or Android studio to run on virtual machine, You can enter the file: pubspec.yaml, click on the text: __Pub get__
     
 ## 🛠 Tools
 
