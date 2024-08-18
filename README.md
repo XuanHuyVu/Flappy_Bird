@@ -4,7 +4,7 @@ Flappy Bird is a mobile game written by Flutter and Flame!
 
 ## Demo
 
-<img src="./assets/images/startGame.png" alt="..." width="250" /> <img src="./assets/images/play.png" alt="..." width="250" /> <img src="./assets/images/gameOver1.png" alt="..." width="250" /> 
+<img src="./assets/images/startGame.png" alt="..." width="260" /> <img src="./assets/images/play.png" alt="..." width="260" /> <img src="./assets/images/gameOver1.png" alt="..." width="260" /> 
 
 ## Installation
 
