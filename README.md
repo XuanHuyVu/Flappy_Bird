@@ -1,16 +1,31 @@
-# game_flappy_bird
+### Flappy Bird
 
-A basic game written by flutter and flame
+Flappy Bird is a mobile game written by Flutter and Flame!
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+  git clone https://github.com/XuanHuyVu/Flappy_Bird
+```
+This folder will be downloaded to your PC, after that you use IDE such as VScode or Android studio to run on virtual machine.
+    
+## 🛠 Tools
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ __Android Studio__
+
+## Tech Stack
+
+- __Flutter__
+- __Dart__
+- __Flame__: 1.18.0
+- __Flame Audio__: 2.10.2
+
+(Các Plug-in này bạn có thể cài đặt ở đường link: __https://pub.dev/__ và gán chúng vào file __pubspec.yaml__)
+
+## Feedback
+
+If you have any feedback, please reach out to us at __vuhuy25092004@gmail.com__
+
